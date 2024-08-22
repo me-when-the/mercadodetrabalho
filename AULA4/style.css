@@ -1,18 +1,26 @@
+
+
+
 body{
     background-color: rgb(255, 228, 243);
-
+    background-image: linear-gradient(rgb(255, 146, 219), rgb(255, 221, 244), rgb(143, 205, 255));
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-image: url(https://th.bing.com/th/id/OIP.UcbT3NO2xBf9WzZ6WwliEQHaHe?rs=1&pid=ImgDetMain);
+      
 }
-
-p{
-color: palevioletred;
-background-color:pink ;
-
+.titulo{
+    color: palevioletred;
+    background-color:pink,;
+    
+    
 }
 
 #ol1{
-color: yellow;
-background-color: pink;
-
+    color: yellow;
+    background-color: pink;
+    background-size: 300px 100px;
 }
 
 #ol2{
@@ -22,8 +30,17 @@ background-color: pink;
 }
 
 ul{
-color: aqua;
-background-color: pink;
+    color: aqua;
+    background-color: pink;
 
+
+}
+
+#button1{
+    background-color: aqua;
+    color: white;
+    cursor: pointer;
+    border: none;
+    
 
 }
