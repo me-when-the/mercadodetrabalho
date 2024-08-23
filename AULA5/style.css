@@ -1,0 +1,32 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.menu-horizontal{
+
+background-color: rgb(255, 206, 234);
+
+
+}
+
+.menu-horizontal ul{
+
+    max-width: 800px;
+
+}
+
+.menu-horizontal ul li{
+
+    display: inline;
+    
+
+}
+
+.menu-horizontal ul li a{
+
+    max-width: 800px;
+    color: rgb(255, 154, 170);
+    display: inline-block;
+    text-decoration: none;
+}
